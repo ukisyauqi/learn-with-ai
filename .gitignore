@@ -1,0 +1,10 @@
+node_modules
+.next
+dist
+*.db
+*.sqlite
+*.tsbuildinfo
+.env
+.env.local
+.dev.vars
+.wrangler
